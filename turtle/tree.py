@@ -44,5 +44,4 @@ def y(sz, level):
         fd(-sz)
 
 
-# tree of size 80 and level 7
 y(80, 7)
